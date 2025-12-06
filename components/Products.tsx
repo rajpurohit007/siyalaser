@@ -16,7 +16,7 @@ const Products = () => {
         
         {/* Section Header */}
         <div className="mb-20 text-center max-w-2xl mx-auto">
-          <h2 className="text-sm tracking-[0.3em] text-cyan-500 uppercase mb-4 font-bold">
+          <h2 className="text-sm tracking-[0.3em] text-gray-500 uppercase mb-4 font-bold">
             Our Hardware
           </h2>
           <h3 className="text-4xl md:text-5xl font-display font-bold text-white mb-6">

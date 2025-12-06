@@ -26,7 +26,7 @@ const Contact = () => {
         {/* --- LEFT COLUMN: Contact Info --- */}
         <div className="space-y-12">
           <div>
-            <h2 className="text-sm tracking-[0.3em] text-cyan-500 uppercase mb-4 font-bold font-display">
+            <h2 className="text-sm tracking-[0.3em] text-gray-500 uppercase mb-4 font-bold font-display">
               Get in Touch
             </h2>
             <h3 className="text-4xl md:text-5xl font-display font-bold text-white mb-6">
