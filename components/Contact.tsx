@@ -43,10 +43,13 @@ const Contact = () => {
                 <MapPin className="w-6 h-6 text-white group-hover:text-cyan-400" />
               </div>
               <div>
-                <h4 className="text-white font-display font-bold text-xl mb-1">Headquarters</h4>
+                <h4 className="text-white font-display font-bold text-xl mb-1">Address</h4>
                 <p className="text-gray-400 leading-relaxed">
-                  Varachha Road, Mini Bazar,<br />
-                  Surat, Gujarat 395006, India
+                  <a href="https://maps.app.goo.gl/8PEnhvL2PtgVqCQ28">
+                  Ambikanagar soc, B/248, Jeram Morar ni Vadi, <br/>
+                  Hariom Society, Katargam, Surat, Gujarat 395004
+                  </a>
+                  
                 </p>
               </div>
             </div>
