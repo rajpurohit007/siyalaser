@@ -11,7 +11,10 @@ const Hero = () => {
     <section className="relative h-screen w-full overflow-hidden bg-luxe-dark flex flex-col justify-center items-center">
       
       {/* ---- LAYER 1: The 3D Scene ---- */}
-      <DiamondScene />
+      {/* UPDATED: Added 'hidden md:block' to remove diamond on mobile view */}
+      <div className="hidden md:block absolute inset-0 w-full h-full z-10 pointer-events-none">
+        <DiamondScene />
+      </div>
 
       {/* ---- LAYER 2: Background Text ---- */}
       <div className="absolute inset-0 flex items-center justify-between select-none pointer-events-none px-4 z-30">
