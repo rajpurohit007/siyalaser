@@ -1,5 +1,5 @@
 // components/Services.tsx
-import { Zap, ShoppingBag, Wrench, Aperture, ArrowUpRight } from "lucide-react";
+import { Zap, ShoppingBag, Wrench, Aperture } from "lucide-react";
 
 const services = [
   {
@@ -73,7 +73,6 @@ const Services = () => {
                 <div className={`p-4 bg-white/5 rounded-full transition-colors duration-500 text-white ${service.color} group-hover:bg-white/10`}>
                   {service.icon}
                 </div>
-                <ArrowUpRight className="w-6 h-6 text-gray-600 group-hover:text-white transition-colors duration-300" />
               </div>
 
               {/* Content */}
