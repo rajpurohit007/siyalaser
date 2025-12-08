@@ -18,12 +18,12 @@ const Hero = () => {
 
       {/* ---- LAYER 2: Background Text ---- */}
       <div className="absolute inset-0 flex items-center justify-between select-none pointer-events-none px-4 z-30">
-        <h2 className="text-[15vw] leading-none opacity-10 bg-gradient-to-b from-white to-transparent bg-clip-text text-transparent font-serif">
-          Siya
-        </h2>
-        <h2 className="text-[15vw] leading-none opacity-10 bg-gradient-to-b from-white to-transparent bg-clip-text text-transparent font-serif text-right">
-          Laser
-        </h2>
+        <h2 className="text-[15vw] leading-none opacity-50 bg-gradient-to-b from-white to-transparent bg-clip-text text-transparent font-serif">
+  Siya
+</h2>
+<h2 className="text-[15vw] leading-none opacity-50 bg-gradient-to-b from-white to-transparent bg-clip-text text-transparent font-serif text-right">
+  Laser
+</h2>
       </div>
 
       {/* ---- LAYER 3: Foreground Content ---- */}
