@@ -45,11 +45,11 @@ const Footer = () => {
           <div>
             <h4 className="text-white font-serif text-lg mb-6">Quick Links</h4>
             <ul className="space-y-4">
-              <FooterLink href="#about">About Us</FooterLink>
-              <FooterLink href="#services">Our Services</FooterLink>
-              <FooterLink href="#products">Hardware Products</FooterLink>
-              <FooterLink href="#global">Global Presence</FooterLink>
-              <FooterLink href="#contact">Contact Support</FooterLink>
+              <FooterLink href="/#about">About Us</FooterLink>
+              <FooterLink href="/#services">Our Services</FooterLink>
+              <FooterLink href="/#products">Hardware Products</FooterLink>
+              <FooterLink href="/#global">Global Presence</FooterLink>
+              <FooterLink href="/#contact">Contact Support</FooterLink>
             </ul>
           </div>
 
@@ -57,11 +57,11 @@ const Footer = () => {
           <div>
             <h4 className="text-white font-serif text-lg mb-6">Services</h4>
             <ul className="space-y-4">
-              <FooterLink href="#services">Diamond Sawing</FooterLink>
-              <FooterLink href="#services">4P Processing</FooterLink>
-              <FooterLink href="#services">Diode Repair</FooterLink>
-              <FooterLink href="#services">Laser Marking</FooterLink>
-              <FooterLink href="#services">Optics Supply</FooterLink>
+              <FooterLink href="/#services">Diamond Sawing</FooterLink>
+              <FooterLink href="/#services">4P Processing</FooterLink>
+              <FooterLink href="/#services">Diode Repair</FooterLink>
+              <FooterLink href="/#services">Laser Marking</FooterLink>
+              <FooterLink href="/#services">Optics Supply</FooterLink>
             </ul>
           </div>
 
