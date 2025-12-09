@@ -42,8 +42,8 @@ export const metadata: Metadata = {
   // Social Media Previews (OpenGraph)
   openGraph: {
     title: "Siya Laser Tech - Precision Diamond Machinery",
-    description: "Innovating the diamond industry with advanced 4P, Multi-Sawing, and Galvo laser solutions.",
-    url: "https://siyalaser.com", // Replace with your actual domain when live
+    description: "Innovating the diamond industry with advanced 4P,4p laser machine, gelvo machine, diamond machine, diamond cutting machine, sell diode, sell 4p machine diode, diamond, diode selling, diode purchase, sell 4p laser machine, buy 4p laser machine, sell gelvo machine, buy gelvo machine, sell diode, buy diode, 4p , 4p lase , 4p laser machine, gelvo, gelvo machine, gelvo laser machine, multi sawing machine, sell multi sawing machine, buy multi sawing machine ,multi sawing, , Multi-Sawing, and Galvo laser solutions.",
+    url: "https://siyalasertech.com", // Replace with your actual domain when live
     siteName: "Siya Laser Tech",
     locale: "en_US",
     type: "website",
