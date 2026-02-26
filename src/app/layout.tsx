@@ -82,6 +82,7 @@ export default function RootLayout({
       <head>
         <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1435795938529533"
      crossOrigin="anonymous"></script>
+
       </head>
       <body className={`${playfair.variable} font-serif bg-zinc-950 text-white antialiased`}>
         {children}
